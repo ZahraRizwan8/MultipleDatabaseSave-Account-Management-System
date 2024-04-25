@@ -1,0 +1,15 @@
+•Add database in to your
+Account management system
+
+
+•There should be a menu where you ask user
+where he wants to store his data. Following are the options
+
+
+–File
+
+
+–Oracle
+
+
+–MySQL

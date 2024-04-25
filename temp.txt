@@ -1,0 +1,3 @@
+Customer name: Jillian
+Customer address: 51avenue
+Customer phone number: 342789
